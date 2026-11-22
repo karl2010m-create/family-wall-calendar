@@ -1,0 +1,401 @@
+{
+ "updated": "2026-11-21T20:54:23-05:00",
+ "events": [
+  {
+   "date": "2026-11-01",
+   "start": null,
+   "end": null,
+   "allDay": true,
+   "title": "Daylight Saving Time ends",
+   "location": "",
+   "calendar": "US holidays"
+  },
+  {
+   "date": "2026-11-03",
+   "start": null,
+   "end": null,
+   "allDay": true,
+   "title": "Election Day",
+   "location": "",
+   "calendar": "US holidays"
+  },
+  {
+   "date": "2026-11-03",
+   "start": "08:00",
+   "end": "09:00",
+   "allDay": false,
+   "title": "Remote classes ",
+   "location": "",
+   "calendar": "Karl"
+  },
+  {
+   "date": "2026-11-07",
+   "start": "10:30",
+   "end": "11:30",
+   "allDay": false,
+   "title": "Chase — violin class",
+   "location": "",
+   "calendar": "Karl"
+  },
+  {
+   "date": "2026-11-07",
+   "start": "13:00",
+   "end": "14:00",
+   "allDay": false,
+   "title": "Chase — dentist visit",
+   "location": "Flushing, Queens, NY",
+   "calendar": "Karl"
+  },
+  {
+   "date": "2026-11-07",
+   "start": "15:00",
+   "end": "16:00",
+   "allDay": false,
+   "title": "Chase — eye appointment at Sur Eye Care",
+   "location": "74-02 Broadway, Jackson Heights, Queens, NY",
+   "calendar": "Karl"
+  },
+  {
+   "date": "2026-11-08",
+   "start": "08:00",
+   "end": "12:00",
+   "allDay": false,
+   "title": "Chase — Hunter learning program",
+   "location": "108-22 Queens Blvd, 2nd floor, Forest Hills, NY 11375",
+   "calendar": "Karl"
+  },
+  {
+   "date": "2026-11-09",
+   "start": "08:00",
+   "end": "09:00",
+   "allDay": false,
+   "title": "婷生日",
+   "location": "",
+   "calendar": "Karl"
+  },
+  {
+   "date": "2026-11-11",
+   "start": null,
+   "end": null,
+   "allDay": true,
+   "title": "No school",
+   "location": "",
+   "calendar": "Karl"
+  },
+  {
+   "date": "2026-11-11",
+   "start": null,
+   "end": null,
+   "allDay": true,
+   "title": "Veterans Day",
+   "location": "",
+   "calendar": "US holidays"
+  },
+  {
+   "date": "2026-11-12",
+   "start": "11:20",
+   "end": "11:45",
+   "allDay": false,
+   "title": "Chase school pickup (half day)",
+   "location": "",
+   "calendar": "Karl"
+  },
+  {
+   "date": "2026-11-12",
+   "start": "18:15",
+   "end": "18:45",
+   "allDay": false,
+   "title": "Chase parent-teacher conference (Zoom)",
+   "location": "",
+   "calendar": "Karl"
+  },
+  {
+   "date": "2026-11-14",
+   "start": "08:00",
+   "end": "09:00",
+   "allDay": false,
+   "title": "超生日",
+   "location": "",
+   "calendar": "Karl"
+  },
+  {
+   "date": "2026-11-14",
+   "start": "16:00",
+   "end": "17:00",
+   "allDay": false,
+   "title": "Dentist appointment",
+   "location": "Dr. Lixian Liang, DDS, 198 Canal St, Ste 402, New York, NY 10013",
+   "calendar": "Karl"
+  },
+  {
+   "date": "2026-11-15",
+   "start": "08:00",
+   "end": "12:00",
+   "allDay": false,
+   "title": "Chase — Hunter learning program",
+   "location": "108-22 Queens Blvd, 2nd floor, Forest Hills, NY 11375",
+   "calendar": "Karl"
+  },
+  {
+   "date": "2026-11-21",
+   "start": "10:30",
+   "end": "11:30",
+   "allDay": false,
+   "title": "Dentist — Dr. Liang",
+   "location": "198 Canal St, Ste 402, New York, NY 10013",
+   "calendar": "Karl"
+  },
+  {
+   "date": "2026-11-22",
+   "start": "08:00",
+   "end": "12:00",
+   "allDay": false,
+   "title": "Chase — Hunter learning program",
+   "location": "108-22 Queens Blvd, 2nd floor, Forest Hills, NY 11375",
+   "calendar": "Karl"
+  },
+  {
+   "date": "2026-11-22",
+   "start": "17:30",
+   "end": "19:30",
+   "allDay": false,
+   "title": "Seyse & Chase — dinner with Chase's classmate and parents",
+   "location": "",
+   "calendar": "Karl"
+  },
+  {
+   "date": "2026-11-25",
+   "start": "15:00",
+   "end": null,
+   "allDay": false,
+   "title": "Airbnb — Fulton 2BR",
+   "location": "Fulton, NY",
+   "calendar": "Karl"
+  },
+  {
+   "date": "2026-11-26",
+   "start": null,
+   "end": null,
+   "allDay": true,
+   "title": "Airbnb — Fulton 2BR",
+   "location": "Fulton, NY",
+   "calendar": "Karl"
+  },
+  {
+   "date": "2026-11-26",
+   "start": null,
+   "end": null,
+   "allDay": true,
+   "title": "Thanksgiving Day",
+   "location": "",
+   "calendar": "US holidays"
+  },
+  {
+   "date": "2026-11-26",
+   "start": "08:00",
+   "end": null,
+   "allDay": false,
+   "title": "No school",
+   "location": "",
+   "calendar": "Karl"
+  },
+  {
+   "date": "2026-11-27",
+   "start": null,
+   "end": null,
+   "allDay": true,
+   "title": "Airbnb — Fulton 2BR",
+   "location": "Fulton, NY",
+   "calendar": "Karl"
+  },
+  {
+   "date": "2026-11-27",
+   "start": null,
+   "end": null,
+   "allDay": true,
+   "title": "Black Friday",
+   "location": "",
+   "calendar": "US holidays"
+  },
+  {
+   "date": "2026-11-27",
+   "start": null,
+   "end": "21:00",
+   "allDay": false,
+   "title": "No school",
+   "location": "",
+   "calendar": "Karl"
+  },
+  {
+   "date": "2026-11-28",
+   "start": null,
+   "end": null,
+   "allDay": true,
+   "title": "Airbnb — Fulton 2BR",
+   "location": "Fulton, NY",
+   "calendar": "Karl"
+  },
+  {
+   "date": "2026-11-29",
+   "start": null,
+   "end": "10:00",
+   "allDay": false,
+   "title": "Airbnb — Fulton 2BR",
+   "location": "Fulton, NY",
+   "calendar": "Karl"
+  },
+  {
+   "date": "2026-12-04",
+   "start": "17:30",
+   "end": "19:30",
+   "allDay": false,
+   "title": "Birthday dinner with 超",
+   "location": "Curry House, 9 Pell St, New York, NY 10013",
+   "calendar": "Karl"
+  },
+  {
+   "date": "2026-12-06",
+   "start": "08:00",
+   "end": "12:00",
+   "allDay": false,
+   "title": "Chase — Hunter learning program",
+   "location": "108-22 Queens Blvd, 2nd floor, Forest Hills, NY 11375",
+   "calendar": "Karl"
+  },
+  {
+   "date": "2026-12-13",
+   "start": "08:00",
+   "end": "12:00",
+   "allDay": false,
+   "title": "Chase — Hunter learning program",
+   "location": "108-22 Queens Blvd, 2nd floor, Forest Hills, NY 11375",
+   "calendar": "Karl"
+  },
+  {
+   "date": "2026-12-20",
+   "start": "08:00",
+   "end": "12:00",
+   "allDay": false,
+   "title": "Chase — Hunter learning program",
+   "location": "108-22 Queens Blvd, 2nd floor, Forest Hills, NY 11375",
+   "calendar": "Karl"
+  },
+  {
+   "date": "2026-12-24",
+   "start": null,
+   "end": null,
+   "allDay": true,
+   "title": "Christmas Eve",
+   "location": "",
+   "calendar": "US holidays"
+  },
+  {
+   "date": "2026-12-24",
+   "start": "08:00",
+   "end": null,
+   "allDay": false,
+   "title": "Winter break",
+   "location": "",
+   "calendar": "Karl"
+  },
+  {
+   "date": "2026-12-25",
+   "start": null,
+   "end": null,
+   "allDay": true,
+   "title": "Winter break",
+   "location": "",
+   "calendar": "Karl"
+  },
+  {
+   "date": "2026-12-25",
+   "start": null,
+   "end": null,
+   "allDay": true,
+   "title": "Christmas Day",
+   "location": "",
+   "calendar": "US holidays"
+  },
+  {
+   "date": "2026-12-26",
+   "start": null,
+   "end": null,
+   "allDay": true,
+   "title": "Winter break",
+   "location": "",
+   "calendar": "Karl"
+  },
+  {
+   "date": "2026-12-27",
+   "start": null,
+   "end": null,
+   "allDay": true,
+   "title": "Winter break",
+   "location": "",
+   "calendar": "Karl"
+  },
+  {
+   "date": "2026-12-27",
+   "start": "08:00",
+   "end": "12:00",
+   "allDay": false,
+   "title": "Chase — Hunter learning program",
+   "location": "108-22 Queens Blvd, 2nd floor, Forest Hills, NY 11375",
+   "calendar": "Karl"
+  },
+  {
+   "date": "2026-12-28",
+   "start": null,
+   "end": null,
+   "allDay": true,
+   "title": "Winter break",
+   "location": "",
+   "calendar": "Karl"
+  },
+  {
+   "date": "2026-12-29",
+   "start": null,
+   "end": null,
+   "allDay": true,
+   "title": "Winter break",
+   "location": "",
+   "calendar": "Karl"
+  },
+  {
+   "date": "2026-12-30",
+   "start": null,
+   "end": null,
+   "allDay": true,
+   "title": "Winter break",
+   "location": "",
+   "calendar": "Karl"
+  },
+  {
+   "date": "2026-12-31",
+   "start": null,
+   "end": null,
+   "allDay": true,
+   "title": "Winter break",
+   "location": "",
+   "calendar": "Karl"
+  },
+  {
+   "date": "2026-12-31",
+   "start": null,
+   "end": null,
+   "allDay": true,
+   "title": "New Year's Eve",
+   "location": "",
+   "calendar": "US holidays"
+  },
+  {
+   "date": "2027-01-01",
+   "start": null,
+   "end": "21:00",
+   "allDay": false,
+   "title": "Winter break",
+   "location": "",
+   "calendar": "Karl"
+  }
+ ]
+}
