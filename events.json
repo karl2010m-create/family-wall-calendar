@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T20:57:59-05:00",
+ "updated": "2026-11-21T21:02:24-05:00",
  "events": [
   {
    "date": "2026-11-01",
@@ -152,6 +152,15 @@
    "allDay": false,
    "title": "Chase — Hunter learning program",
    "location": "108-22 Queens Blvd, 2nd floor, Forest Hills, NY 11375",
+   "calendar": "Karl"
+  },
+  {
+   "date": "2026-11-22",
+   "start": "10:00",
+   "end": "11:00",
+   "allDay": false,
+   "title": "wall calendar testing",
+   "location": "",
    "calendar": "Karl"
   },
   {
