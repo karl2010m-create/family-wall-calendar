@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T20:54:23-05:00",
+ "updated": "2026-11-21T20:57:59-05:00",
  "events": [
   {
    "date": "2026-11-01",
@@ -391,9 +391,135 @@
   {
    "date": "2027-01-01",
    "start": null,
+   "end": null,
+   "allDay": true,
+   "title": "New Year's Day",
+   "location": "",
+   "calendar": "US holidays"
+  },
+  {
+   "date": "2027-01-01",
+   "start": null,
    "end": "21:00",
    "allDay": false,
    "title": "Winter break",
+   "location": "",
+   "calendar": "Karl"
+  },
+  {
+   "date": "2027-01-17",
+   "start": "08:00",
+   "end": "09:00",
+   "allDay": false,
+   "title": "Bryan birthday",
+   "location": "",
+   "calendar": "Karl"
+  },
+  {
+   "date": "2027-01-18",
+   "start": null,
+   "end": null,
+   "allDay": true,
+   "title": "Martin Luther King Jr. Day",
+   "location": "",
+   "calendar": "US holidays"
+  },
+  {
+   "date": "2027-01-18",
+   "start": "08:00",
+   "end": "09:00",
+   "allDay": false,
+   "title": "No school",
+   "location": "",
+   "calendar": "Karl"
+  },
+  {
+   "date": "2027-02-01",
+   "start": null,
+   "end": null,
+   "allDay": true,
+   "title": "Wife birthday ",
+   "location": "",
+   "calendar": "Karl"
+  },
+  {
+   "date": "2027-02-01",
+   "start": "08:00",
+   "end": "09:00",
+   "allDay": false,
+   "title": "wedding anniversary ",
+   "location": "",
+   "calendar": "Karl"
+  },
+  {
+   "date": "2027-02-14",
+   "start": null,
+   "end": null,
+   "allDay": true,
+   "title": "Valentine's Day",
+   "location": "",
+   "calendar": "US holidays"
+  },
+  {
+   "date": "2027-02-15",
+   "start": null,
+   "end": null,
+   "allDay": true,
+   "title": "No school",
+   "location": "",
+   "calendar": "Karl"
+  },
+  {
+   "date": "2027-02-15",
+   "start": null,
+   "end": null,
+   "allDay": true,
+   "title": "Presidents’ Day",
+   "location": "",
+   "calendar": "US holidays"
+  },
+  {
+   "date": "2027-02-16",
+   "start": null,
+   "end": null,
+   "allDay": true,
+   "title": "No school",
+   "location": "",
+   "calendar": "Karl"
+  },
+  {
+   "date": "2027-02-17",
+   "start": null,
+   "end": null,
+   "allDay": true,
+   "title": "No school",
+   "location": "",
+   "calendar": "Karl"
+  },
+  {
+   "date": "2027-02-18",
+   "start": null,
+   "end": null,
+   "allDay": true,
+   "title": "No school",
+   "location": "",
+   "calendar": "Karl"
+  },
+  {
+   "date": "2027-02-19",
+   "start": null,
+   "end": null,
+   "allDay": true,
+   "title": "No school",
+   "location": "",
+   "calendar": "Karl"
+  },
+  {
+   "date": "2027-02-23",
+   "start": "08:00",
+   "end": "09:00",
+   "allDay": false,
+   "title": "小胖生日",
    "location": "",
    "calendar": "Karl"
   }
