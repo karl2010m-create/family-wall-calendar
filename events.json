@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T07:12:23-05:00",
+ "updated": "2026-11-23T07:18:25-05:00",
  "events": [
   {
    "date": "2026-11-01",
@@ -173,6 +173,24 @@
    "calendar": "Karl"
   },
   {
+   "date": "2026-11-25",
+   "start": "15:00",
+   "end": null,
+   "allDay": false,
+   "title": "Airbnb — Fulton 2BR",
+   "location": "Fulton, NY",
+   "calendar": "Karl"
+  },
+  {
+   "date": "2026-11-26",
+   "start": null,
+   "end": null,
+   "allDay": true,
+   "title": "Airbnb — Fulton 2BR",
+   "location": "Fulton, NY",
+   "calendar": "Karl"
+  },
+  {
    "date": "2026-11-26",
    "start": null,
    "end": null,
@@ -195,6 +213,15 @@
    "start": null,
    "end": null,
    "allDay": true,
+   "title": "Airbnb — Fulton 2BR",
+   "location": "Fulton, NY",
+   "calendar": "Karl"
+  },
+  {
+   "date": "2026-11-27",
+   "start": null,
+   "end": null,
+   "allDay": true,
    "title": "Black Friday",
    "location": "",
    "calendar": "US holidays"
@@ -206,6 +233,24 @@
    "allDay": false,
    "title": "No school",
    "location": "",
+   "calendar": "Karl"
+  },
+  {
+   "date": "2026-11-28",
+   "start": null,
+   "end": null,
+   "allDay": true,
+   "title": "Airbnb — Fulton 2BR",
+   "location": "Fulton, NY",
+   "calendar": "Karl"
+  },
+  {
+   "date": "2026-11-29",
+   "start": null,
+   "end": "10:00",
+   "allDay": false,
+   "title": "Airbnb — Fulton 2BR",
+   "location": "Fulton, NY",
    "calendar": "Karl"
   },
   {
